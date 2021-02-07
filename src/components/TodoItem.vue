@@ -17,7 +17,7 @@ export default {
  }
  .is-complete{
      text-decoration: line-through;
-}
+ }
 .del{
     background: #ff0000;
     color: #fff;
