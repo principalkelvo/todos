@@ -7,7 +7,6 @@
 
 <script>
 import Header from './components/layout/Header';
-import Header from './components/layout/header.vue';
 import Todos from "./components/Todos";
 
 
@@ -17,8 +16,7 @@ export default {
     Header,
     Todos
   },
-  dat
-    Headera(){
+  data(){
     return{
       todos:[
         {
